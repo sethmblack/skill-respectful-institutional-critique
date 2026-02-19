@@ -1,18 +1,19 @@
 ---
 name: respectful-institutional-critique
-description: "Expose institutional absurdity through sincere engagement rather than mockery, revealing dysfunction while preserving individual dignity"
+description: Expose institutional absurdity through sincere engagement rather than mockery, revealing dysfunction while preserving individual dignity
 license: MIT
 metadata:
-  version: 1.0.0"1.0.0"
-  author: "Seth Black"
+  version: 1.0.4837
+  author: Seth Black
+repository: https://github.com/sethmblack/paks-skills
 keywords:
-  - satire
-  - critique
-  - institutions
-  - sincerity
-  - peter-sellers
-  - comedy
-  - organizations
+- satire
+- critique
+- institutions
+- sincerity
+- peter-sellers
+- comedy
+- organizations
 ---
 
 # Respectful Institutional Critique
